@@ -1,7 +1,7 @@
 {
-  "name": "digital-menu",
+  "name": "lidoma",
   "version": "1.0.0",
-  "description": "Digital Cafe/Restaurant menu",
+  "description": "Digital Cafe/Restaurant Menu",
   "author": "Saman Rashidi <samanrashidi44@gmail.com>",
   "private": true,
   "scripts": {
