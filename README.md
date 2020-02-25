@@ -49,7 +49,7 @@ npm run build
 
 * Vuejs
 * HTML 5
-* Sass
+* CSS
 * Javascript
 
 ## Contributing
