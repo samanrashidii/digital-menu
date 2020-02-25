@@ -1,10 +1,10 @@
 import Vue from 'vue';
 import Router from 'vue-router';
-import Categories from '@/components/Categories';
-import SideCategories from '@/components/SideCategories';
-import Menu from '@/components/Menu';
-import Sidebar from '@/components/Sidebar';
-import Result from '@/components/Result';
+import Categories from '@/components/Categories.vue';
+import SideCategories from '@/components/SideCategories.vue';
+import Menu from '@/components/Menu.vue';
+import Sidebar from '@/components/Sidebar.vue';
+import Result from '@/components/Result.vue';
 
 Vue.use(Router);
 
@@ -23,7 +23,9 @@ export default new Router({
     {
       path: '/result',
       name: 'Result',
-      components: {result: Result}
+      components: {
+        result: Result
+      }
     }
   ],
 });
