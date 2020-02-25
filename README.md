@@ -1,6 +1,6 @@
 <p>
   <a href="https://lidoma.netlify.com">
-    <img src="https://lidoma.netlify.com/logo.png" width=170 height=57>
+    <img src="https://lidoma.netlify.com/static/images/logo.png" width=170 height=57>
   </a>
 </p>
 
