@@ -6,7 +6,7 @@
 
 # Lidoma
 
-Digital menu for see items and order at Cafe/Restaurant. This product will help cafes and restaurants to speed up the ordering process and faster payments.
+Digital menu for see items and order at Cafe/Restaurant using tablet. This product will help cafes and restaurants to speed up the ordering process and faster payments.
 
 ## Language
 
