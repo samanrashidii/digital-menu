@@ -1,0 +1,273 @@
+[
+  [
+    {
+      "name": "Espresso",
+      "geoName": "ესპრესო",
+      "description": "A type of strong black coffee made by forcing steam through ground coffee beans",
+      "geoDescription": "ძლიერი შავი ყავის ტიპი, რომელიც დამზადებულია steam- ის მეშვეობით ყავის მარცვლების მეშვეობით",
+      "image": "espresso.gif",
+      "price": 2,
+      "quantity": 1,
+      "recommended": true
+    },
+    {
+      "name": "Double Espresso",
+      "geoName": "ორმაგი ესპრესო",
+      "description": "This is two espresso shots in one cup",
+      "geoDescription": "ეს არის მხოლოდ ორი ესპრესო კადრები ერთ ჭიქაში",
+      "image": "double_espresso.jpg",
+      "price": 3,
+      "quantity": 1
+    },
+    {
+      "name": "Americano",
+      "geoName": "ამერიკანო",
+      "description": "Water is added to espresso after it\"s been extracted",
+      "geoDescription": "ესპრესო წყალს ემატება მას შემდეგ, რაც მოპოვებული იქნა",
+      "image": "americano.jpg",
+      "price": 2,
+      "quantity": 1
+    },
+    {
+      "name": "Latte",
+      "geoName": "ლატე",
+      "description": "Espresso with hot texturised milk",
+      "geoDescription": "ესპრესო ცხელი ტექსტურირებული რძით",
+      "image": "latte.jpg",
+      "price": 4,
+      "quantity": 1
+    },
+    {
+      "name": "Cappuccino",
+      "geoName": "კაპუჩინო",
+      "description": "Same as latte but has more foam and chocolate placed on top of the drink",
+      "geoDescription": "რაც ლატე მაგრამ უფრო ქაფი და შოკოლადი განთავსებული თავზე სასმელი",
+      "image": "cappuccino.jpg",
+      "price": 5,
+      "quantity": 1
+    },
+    {
+      "name": "Mocha",
+      "geoName": "მორჩა",
+      "description": "Mixing chocolate powder with an espresso shot and then adding steamed milk and micro-foam into the beverage",
+      "geoDescription": "მზადდება შერევით შოკოლადის ფხვნილი ესპრესო გასროლა და შემდეგ დასძინა steamed რძე და მიკრო ქაფით შევიდა სასმელების",
+      "image": "mocha.jpg",
+      "price": 5,
+      "quantity": 1
+    },
+    {
+      "name": "Caramel Macchiato",
+      "geoName": "კარამელი მაჩიჩი",
+      "description": "Espresso with steamed milk topped with caramel sauce and a swirl of mocha sauce",
+      "geoDescription": "სასმელი ესპრესო რძითაა გაჯერებული კარამელის სოუსით და მორჩის სოუსით",
+      "image": "caramel_macchiato.jpg",
+      "price": 7,
+      "quantity": 1
+    },
+    {
+      "name": "Affogato",
+      "geoName": "შემთხვევითი",
+      "description": "Placing one big scoope of vanilla ice cream within a single shot of espresso",
+      "geoDescription": "მზადდება ერთი დიდი ქულა ვანილის ნაყინის ფარგლებში ერთი გასროლა ესპრესო",
+      "image": "affogato.jpg",
+      "price": 4,
+      "quantity": 1,
+      " new": true
+    },
+    {
+      "name": "Black Tea",
+      "geoName": "ავი ჩაი",
+      "description": "Strong flavour black tea",
+      "geoDescription": "ძლიერი არომატი შავი ჩაი",
+      "image": "black_tea.jpg",
+      "price": 2,
+      "quantity": 1
+    },
+    {
+      "name": "Green Tea",
+      "geoName": "წვანე ჩაი",
+      "description": "Type of tea that is made from Camellia sinensis leaves",
+      "geoDescription": "ჩაის ტიპი, რომელიც მზადდება Camellia sinensis ფოთლებიდან",
+      "image": "green_tea.jpg",
+      "price": 3,
+      "quantity": 1
+    },
+    {
+      "name": "Herbal Tea",
+      "geoName": "წვანე ჩაი",
+      "description": "Mix of herbs, spices and helpful plants without caffeine",
+      "geoDescription": "ბალახის, სანელებლებისა და სასარგებლო მცენარეების ნაზავი კოფეინის გარეშე",
+      "image": "herbal_tea.jpg",
+      "price": 4,
+      "quantity": 1
+    },
+    {
+      "name": "Vanilla Milkshake",
+      "geoName": "ვანილა მელქშაკი",
+      "description": "Blended Milk - Vanilla Extract - Vanilla Ice Cream",
+      "geoDescription": "გაჯერებული რძე - ვანილის ექსტრაქტი - ვანილის ნაყინი",
+      "image": "vanilla_milkshake.jpg",
+      "price": 7,
+      "quantity": 1
+    },
+    {
+      "name": "Chocolate Milkshake",
+      "geoName": "ვანილა მელქშაკი",
+      "description": "Blended Milk - Chocolate Powder - Chocolate Ice Cream",
+      "geoDescription": "გაჯერებული რძე - შოკოლადის ფხვნილი - შოკოლადის ნაყინი",
+      "image": "chocolate_milkshake.jpg",
+      "price": 7,
+      "quantity": 1
+    },
+    {
+      "name": "Chocolate Milkshake",
+      "geoName": "ვანილა მელქშაკი",
+      "description": "Blended Milk - Chocolate Powder - Chocolate Ice Cream",
+      "geoDescription": "გაჯერებული რძე - შოკოლადის ფხვნილი - შოკოლადის ნაყინი",
+      "image": "chocolate_milkshake.jpg",
+      "price": 7,
+      "quantity": 1
+    },
+    {
+      "name": "Fresh Lemonade",
+      "geoName": "ახალი ლიმონათი",
+      "description": "Fresh Lemon Juice - Ice - Sparkling Water - Stevia Sweetener",
+      "geoDescription": "ახალი ლიმონის წვენი - ყინულის - ცქრიალა წყალი - ტკბილი",
+      "image": "lemonade.gif",
+      "price": 6,
+      "quantity": 1
+    }
+  ],
+  [
+    {
+      "name": "Georgian Salad With Walnuts",
+      "geoName": "ქართული სალათი კაკალით",
+      "description": "Fresh Tomato - Fresh Cucumber - Fresh Onion - Salad Dressing - Walnuts",
+      "geoDescription": "ახალი პომიდორი - ახალი კიტრი - ახალი ხახვი - სალათ გასახდელი - კაკალი",
+      "image": "georgian_salad.jpg",
+      "price": 6,
+      "quantity": 1,
+      "recommended": true,
+      "vegan":true
+    },
+    {
+      "name": "Caesar Salad",
+      "geoName": "ცეზარ სალადი",
+      "description": "Chicken - Freshly Grate Parmesan Cheese - Lettuce - Caesar Dressing - Shredded Cheese - Croutons",
+      "geoDescription": "ქათმის - ახალი შეფუთვა პარმეზანს ყველი - სალათის ფოთოლი - კეისრის გასახდელი - გახეხილი ყველი - კრეფონები",
+      "image": "caesar_salad.jpg",
+      "price": 7,
+      "quantity": 1
+    },
+    {
+      "name": "Imeruli Khachapuri",
+      "geoName": "იმერული ხაჩპური",
+      "description": "Khachapuri bread with native cheese inside",
+      "geoDescription": "ხაჭაპური პური მშობლიურ ყველით შიგნით",
+      "image": "imeruli_khachapuri.jpg",
+      "price": 7,
+      "quantity": 1,
+      "new": true
+    },
+    {
+      "name": "Adjaruli Khachapuri",
+      "geoName": "აჭარული ხაჩპური",
+      "description": "Khachapuri bread with 2 cheese inside and an egg and a butter on top of it",
+      "geoDescription": "ხაჭაპურის პური ორი ყველის შიგნით და კვერცხის ზემოთ",
+      "image": "adjaruli_khachapuri.jpg",
+      "price": 8,
+      "quantity": 1,
+      "recommended": true
+    }
+  ],
+  [
+    {
+      "name": "B52",
+      "geoName": "B52",
+      "description": "Coffee Liqueur - Irish Cream - Grand Marnier",
+      "geoDescription": "ყავის ლიქიორი - ირლანდიური კრემი - გრან-მარნიერი",
+      "image": "b52.jpg",
+      "price": 4,
+      "quantity": 1
+    },
+    {
+      "name": "Sex On The Beach",
+      "geoName": "სექსი სანაპიროზე",
+      "description": "Vodka - Peach Schnapps - Orange Juice - Cranberry Juice",
+      "geoDescription": "არაყი - ატამი სნეპიპსი - ფორთოხლის წვენი - წვნიანი წვენი",
+      "image": "sex_on_the_beach.jpg",
+      "price": 7,
+      "quantity": 1
+    }
+  ],
+  [
+    {
+      "name": "Blueberry Hookah",
+      "geoName": "იხილეთ განცხადება",
+      "description": "Enjoy the blueberry tobacco in mellow icy taste",
+      "geoDescription": "იხალისეთ იხილეთ თამბაქოს მორცხვი ყინულოვანი გემო",
+      "image": "hookah_blueberry.jpg",
+      "price": 20,
+      "quantity": 1
+    },
+    {
+      "name": "Orange Hookah",
+      "geoName": "ნარინჯისფერი განცხადება",
+      "description": "Enjoy the orange tobacco in mellow icy taste",
+      "geoDescription": "იხალისეთ ნარინჯისფერი თამბაქოს მორცხვი ყინულოვანი გემო",
+      "image": "hookah_orange.jpg",
+      "price": 20,
+      "quantity": 1
+    },
+    {
+      "name": "VIP Warm Lidoma Hookah",
+      "geoName": "VIP თბილი ვნება განცხადება",
+      "description": "Enjoy the combination of warm fresh fruits tobacco with taste of fresh steam comes from fruits",
+      "geoDescription": "ისიამოვნეთ თამბაქოს ახალი თბილი ხილის კომბინაცია სუფთა ორთქლის გემოთი ხილის",
+      "image": "hookah_warm_vip_lidoma.jpg",
+      "price": 33,
+      "quantity": 1,
+      "recommended": true
+    },
+    {
+      "name": "VIP Cold Lidoma Hookah",
+      "geoName": "VIP ივი ვნება განცხადება",
+      "description": "Enjoy the combination of cold fresh fruits tobacco with taste of fresh steam comes from fruits",
+      "geoDescription": "ისიამოვნეთ თამბაქოს ახალი ივი ხილის კომბინაცია სუფთა ორთქლის გემოთი ხილის",
+      "image": "hookah_cold_vip_lidoma.jpg",
+      "price": 33,
+      "quantity": 1
+    }
+  ],
+  [
+    {
+      "name": "French Toast With Bacon",
+      "geoName": "რანგული ტოსტი ბეკონით",
+      "description": "Fresh Toast baked in egg and milk with bacon",
+      "geoDescription": "ახალი სადღეგრძელო კვერცხი და რძეში ბეკონით",
+      "image": "french_toast.jpg",
+      "price": 7,
+      "quantity": 1
+    },
+    {
+      "name": "English Breakfast",
+      "geoName": "ნგლისური საუზმე",
+      "description": "Toast - Bacon - Sausages - Eggs - Beans - Tomato - Mushroom",
+      "geoDescription": "სადღეგრძელო - ბეკონი - ძეხვეული - კვერცხი - ლობიო - პომიდორი - სოკო",
+      "image": "english_breakfast.jpg",
+      "price": 10,
+      "quantity": 1
+    }
+  ],
+  [
+    {
+      "name": "Dont Worry! Be Happy",
+      "geoName": "ნუ შეშფოთე! ყავი ბედნიერი",
+      "description": "Mixed Fruits Hookah + 2x Beers + Pistachio",
+      "geoDescription": "შერეული ხილი Hookah + 2x ლუდი + თხილი",
+      "image": "speical_offer_happy.jpg",
+      "price": 22,
+      "quantity": 1
+    }
+  ]
+]

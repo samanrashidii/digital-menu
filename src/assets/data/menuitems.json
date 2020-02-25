@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Cafe",
+    "geoName": "კაფე",
+    "image": "./static/images/categories/cafe.jpg",
+    "icon": "cafe"
+  },
+  {
+    "name": "Restaurant",
+    "geoName": "რესტორანი",
+    "image": "./static/images/categories/restaurant.jpg",
+    "icon": "restaurant"
+  },
+  {
+    "name": "Bar",
+    "geoName": "ბარი",
+    "image": "./static/images/categories/bar.jpg",
+    "icon": "bar"
+  },
+  {
+    "name": "Hookah",
+    "geoName": "ჰუკა",
+    "image": "./static/images/categories/hookah.jpg",
+    "icon": "hookah"
+  },
+  {
+    "name": "Breakfast",
+    "geoName": "საუზმე",
+    "image": "./static/images/categories/breakfast.jpg",
+    "icon": "breakfast"
+  },
+  {
+    "name": "Special Offers",
+    "geoName": "პეციალური შეთავაზებები",
+    "image": "./static/images/categories/special-offers.jpg",
+    "icon": "special-offers"
+  }
+]

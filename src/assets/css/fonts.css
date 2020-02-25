@@ -1,0 +1,13 @@
+@font-face{
+	font-family:'Muli';
+	src: url('../fonts/Muli.woff') format('woff');
+	font-weight: normal;
+  	font-style: normal;
+}
+
+@font-face{
+	font-family:'Gotham';
+	src: url('../fonts/gotham-bold.woff') format('woff');
+	font-weight: normal;
+  	font-style: normal;
+}
