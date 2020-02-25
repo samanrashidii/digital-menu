@@ -24,7 +24,7 @@ You can see the demo by clicking below link :
 Clone the project from Github:
 
 ```
-git clone git@github.com:samanrashidii/mafiabuzz.git
+git clone git@github.com:samanrashidii/lidoma.git
 ```
 
 Install and save dependencies:
