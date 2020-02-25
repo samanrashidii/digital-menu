@@ -3,7 +3,7 @@ import Router from 'vue-router';
 import Categories from '@/components/Categories.vue';
 import SideCategories from '@/components/SideCategories.vue';
 import Menu from '@/components/Menu.vue';
-import Sidebar from '@/components/Sidebar.vue';
+import SideBar from '@/components/SideBar.vue';
 import Result from '@/components/Result.vue';
 
 Vue.use(Router);
@@ -17,7 +17,7 @@ export default new Router({
         default: Categories,
         sidecategories: SideCategories,
         menu: Menu,
-        sidebar: Sidebar,
+        sidebar: SideBar,
       }
     },
     {
